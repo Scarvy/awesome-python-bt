@@ -7,6 +7,7 @@ List of backtesting projects written in Python
 - [bt](https://github.com/pmorissette/ffn) - flexible backtest framework with a unique feature being a tree structure to easily mix strategies called *Algo Stacks*
 - [backtrader](https://github.com/mementum/backtrader) - event-driven backtest framework to quickly develop backtest stragies and test them.
 - [backtesting.py](https://github.com/kernc/backtesting.py) - lighweight Python framework to test a backtest stragies for a variety of asset classes like crypto, forex, stocks, and futures.
+- [OpenBacktesting](https://github.com/lucidcog/openbacktesting) - Python framework for single-asset historical backtesting with pandas statistics, technical indicators, and parameter optimization.
 - [finmarketpy](https://github.com/cuemacro/finmarketpy) - library for analyzing market data and backtesting stragies with a focus on Forex.
 - [pybacktest](https://github.com/ematvey/pybacktest) - easy-to-use framework for both research and production settings. ***Disclaimer* no commits since 2019.**
 
